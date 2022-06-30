@@ -1,3 +1,7 @@
+.toph2 {
+	
+}
+
 .mount-image {
     margin: 0px;
 }
@@ -53,6 +57,12 @@ h2 {
     font-weight: 300;
     font-size: 15px;
     text-align: left;
+}
+
+@media only screen and (max-width: 650px) {
+	.toph2 {
+		margin-top: 0.0em;
+	}
 }
 
 @media (prefers-color-scheme: dark) {
